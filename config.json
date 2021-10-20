@@ -1,16 +1,15 @@
 {
-    "ownerNumber": "6285158549166@s.whatsapp.net",
-    "ownerName": "aqulzz",
+    "ownerNumber": "6283141953754@s.whatsapp.net",
+    "ownerName": "Rian",
     "limitCount": 30,
     "gamewaktu": 60,
-    "botName": "Xinz Bot",
-    "pathImg": "./media/Itsuki.jpg",
-    "apikey": "YOUR_APIKEY",
-    "fake": "XINZ-BOTZ VERIFIED",
+    "botName": "Specstor",
+    "pathImg": "./media/spongebob.jpg",
+    "apikey": "Specstor",
+    "fake": "Specstor Verified",
     "sesidInsta": "default",
-    "sessionName": "aqulzz",
-    "txtDonasi": "GOPAY : 085157226383\nTrakteer : https://trakteer.id/aqulzz\nSaweeria : https://saweria.co/aqulzz\nPulsa : 085157226383",
-    "gcount": {
+    "sessionName": "session",
+    "txtDonasi": "": {
         "prem": 40,
         "user": 20
     },
